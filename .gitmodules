@@ -1,0 +1,9 @@
+[submodule "znc-modules"]
+	path = znc-modules
+	url = https://github.com/zarthus/znc-modules
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/zarthus/os-and-util-files
+[submodule "weechat-scripts"]
+	path = weechat-scripts
+	url = https://github.com/Zarthus/weechat-scripts
